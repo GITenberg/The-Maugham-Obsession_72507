@@ -1,0 +1,35 @@
+_repo: The-Maugham-Obsession_72507
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Derleth, August
+    alias: Derleth, August William
+    birthdate: 1909
+    deathdate: 1971
+    gutenberg_agent_id: '34440'
+    url: http://www.gutenberg.org/2009/agents/34440
+    wikipedia: https://en.wikipedia.org/wiki/August_Derleth
+description: ''
+gutenberg_issued: '2023-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72507'
+language: en
+pgterms:marc905: 20231209103811derleth
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1953.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Inventors -- Fiction'
+- !lcsh 'Robots -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Maugham Obsession
+url: http://www.gutenberg.org/ebooks/72507
